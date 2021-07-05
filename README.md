@@ -1,5 +1,5 @@
 # yt-2-text-to-speech
-Implicit Code - Youtube / speech to text using NodeJs, Ffmpeg and ibm-cloud Watson I.A.
+Implicit Code - Youtube / text to speech using NodeJs and ibm-cloud Watson I.A.
 
 1- run npm install
 
