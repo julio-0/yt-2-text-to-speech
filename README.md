@@ -6,5 +6,5 @@ Implicit Code - Youtube / text to speech using NodeJs and ibm-cloud Watson I.A.
 2- edit the ibm-cloud credentials
 
 Youtube video:
-https://www.youtube.com/watch?v=FC6SjVdNGfg
+https://www.youtube.com/watch?v=F8rcDzyblG4
 
